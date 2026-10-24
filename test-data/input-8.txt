@@ -1,0 +1,3 @@
+# ALL úgy is működik, hogy csak az egyikben maradt
+GT4500,0,0,50,0
+TORPEDO,ALL

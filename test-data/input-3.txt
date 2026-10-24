@@ -1,0 +1,5 @@
+# Single torpedó csak egyet használ (ezt nem tudjuk jól tesztelni)
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,ALL
+TORPEDO,ALL

@@ -1,0 +1,4 @@
+# Első primary lenne de nincs de ugyanúgy sikerül a SINGLE (nem pontosan a tesztesetet követi de máshogy nem lehet)
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
