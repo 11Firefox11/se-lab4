@@ -1,0 +1,5 @@
+# Első a primaryból tüzel, ezért az első siker utolsó fail 
+# (itt se tudjuk pontosan egyébként, mert lehetne olyat hogy egy ellenpéldát is nézek ahol nincs primary lásd 5.teszt eset)
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

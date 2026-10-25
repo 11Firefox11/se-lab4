@@ -1,0 +1,5 @@
+# Primaryval kezdünk, tüzelünk majd a secondary üres ezért a SINGLE megint primaryból tüzel
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

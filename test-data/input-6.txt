@@ -1,0 +1,3 @@
+# A primary fail rate 100% ezért rögtön nem sikerül így FAIL-nak kell lennie
+GT4500,1,1,1,0
+TORPEDO,SINGLE

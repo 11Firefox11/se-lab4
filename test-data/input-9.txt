@@ -1,0 +1,4 @@
+# Egymás után 2 ALL => el van mind használva ezért 2. FAIL
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
